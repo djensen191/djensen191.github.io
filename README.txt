@@ -30,3 +30,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+Credit toc AJ for designing the Massively design.  I have tweaked his design for my portfolio use.  Most of 
+my changes have been small and content oriented.  Ie as this is a programming portfolio I tried to focus the 
+linked social media platforms towards a business focus.  Also because I am hosting this on GitHub I had to do a little work to 
+make the feedback forms work without the capability of server side scripting. 
