@@ -2706,7 +2706,7 @@ input, select, textarea {
 		}
 	
 		figure {
-			border: 1px #cccccc solid;
+			border: 0px #cccccc solid;
 			padding: 4px;
 			margin: auto;
 		}
