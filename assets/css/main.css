@@ -2936,13 +2936,13 @@ input, select, textarea {
 		color: #18bfef;
 	}
 
-	ul.icons.alt li .icon:before {
+	/*ul.icons.alt li .icon:before {
 		box-shadow: inset 0 0 0 2px #eeeeee;
 	}
 
 	ul.icons.alt li a.icon:hover:before {
 		box-shadow: inset 0 0 0 2px #18bfef;
-	}
+	}*/
 
 /* Section/Article */
 
@@ -3677,14 +3677,14 @@ input, select, textarea {
 		#nav ul.icons li a.icon:hover:before {
 			color: #18bfef;
 		}
-
+		/*
 		#nav ul.icons.alt li .icon:before {
 			box-shadow: inset 0 0 0 2px #ffffff;
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
 			box-shadow: inset 0 0 0 2px #18bfef;
-		}
+		}*/
 
 		#nav input, #nav select, #nav textarea {
 			color: #ffffff;
@@ -4164,14 +4164,14 @@ input, select, textarea {
 		#footer ul.icons li a.icon:hover:before {
 			color: #18bfef;
 		}
-
+		/*
 		#footer ul.icons.alt li .icon:before {
 			box-shadow: inset 0 0 0 2px #e2e2e2;
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
 			box-shadow: inset 0 0 0 2px #18bfef;
-		}
+		}*/
 
 		#footer header.major .date:before, #footer header.major .date:after {
 			border-top-color: #e2e2e2;
